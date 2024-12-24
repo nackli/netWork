@@ -1,0 +1,3 @@
+/home/nack/work/netWork/linux-build/CMakeFiles/netWorkBroad.dir
+/home/nack/work/netWork/linux-build/CMakeFiles/edit_cache.dir
+/home/nack/work/netWork/linux-build/CMakeFiles/rebuild_cache.dir

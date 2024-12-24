@@ -1,0 +1,3 @@
+/home/nack/work/netWork/arm-build/CMakeFiles/netWorkBroad.dir
+/home/nack/work/netWork/arm-build/CMakeFiles/edit_cache.dir
+/home/nack/work/netWork/arm-build/CMakeFiles/rebuild_cache.dir

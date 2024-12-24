@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++-11  -Wall -O3 -fPIC -O3 -DNDEBUG CMakeFiles/netWorkBroad.dir/src/NetWorkBroad.cpp.o -o netWorkBroad   -L/home/nack/work/netWork/../libhv/arm-build/install/lib  -Wl,-rpath,/home/nack/work/netWork/../libhv/arm-build/install/lib -lhv -lpthread 
